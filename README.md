@@ -1,9 +1,8 @@
 # Multiple-Year-Stock-Data-VBA
 
 For this project I used VBA scripting to analyze stock market data. 
-*Data Source: * [Stock Data](Resources/Multiple_year_stock_data.xlsx]
 
-![stock Market](Images/stockmarket.jpg)
+![stock Market](https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NUCHI201902DATA1/raw/master/Homework/02-VBA-Scripting/Instructions/Images/stockmarket.jpg)
 
 Using VBA I created a script that looped through each year of stock data accomplished the following: 
 *Grabbed the total amount of volume each stock had over the year.
